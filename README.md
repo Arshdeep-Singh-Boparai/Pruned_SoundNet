@@ -1,2 +1,2 @@
-# Pruned_SoundNet
-A reduced model size of SoundNet by employing SVD-based pruning framework
+# Pruned_SoundNet (p-Snet)
+A reduced model size of SoundNet by employing SVD-based pruning framework.
